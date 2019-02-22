@@ -6,6 +6,7 @@ body {
     width: 960px;
     font-size: 18px;
     text-align: center;
+    margin: auto;
 }
 
 Header,
@@ -15,6 +16,7 @@ Aside {
         background: #ebebeb;
         padding: 10px;
         margin-bottom: 10px;
+        margin-top: 10px;
         overflow: auto;
 
 }
